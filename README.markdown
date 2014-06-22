@@ -9,3 +9,8 @@ Repository นี้เป็นคลังกลางของการแป
 =====================
 
 หนังสือเล่มนี้อยู่ภายใต้สัญญาอนุญาต[ครีเอทีฟคอมมอนส์ แสดงที่มา-ไม่ใช่เพื่อการ-อนุญาตแบบเดียวกัน 3.0 ประเทศไทย (CC BY-NC-SA 3.0)](http://creativecommons.org/licenses/by-nc-sa/3.0/th/)
+
+
+
+
+Slide git : https://dbrgn.ch/slides/20130207_getting_git/#/
